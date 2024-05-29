@@ -7,6 +7,8 @@
 nav {
   display: flex;
   justify-content: space-around;
+  margin: 0 15px;
+  margin-top: 15px;
 }
 
 nav ul {
@@ -28,6 +30,12 @@ nav ul {
   margin-top: 15px;
   margin-right: 15px;
   color: #0087e8;
+}
+
+.golkro{
+  border: 2px solid black;
+  border-radius: 50px;
+  /* box-shadow: -2px -2px 2px 2px #b8a200 insert; */
 }
 
 .midcontant {
